@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "prettier.requireConfig": true,
+    "prettier.eslintIntegration": true,
+    "eslint.autoFixOnSave": true,
+    "workbench.colorTheme": "Monokai"
+}
