@@ -6,7 +6,7 @@
 
 ## Spy Github
 
-## Projeto de listagem de repositórios de usuário do github
+## Projeto que lista os repositórios e organizações de um usuário informado do github
 
 ### Descrição
 Projeto de estudo usando React Native 
