@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest",
-    "react-devtools": "react-devtools"
+    "test": "jest"
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.5.0",
@@ -23,6 +22,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
     "@babel/runtime": "^7.4.5",
     "babel-eslint": "^10.0.2",
     "babel-jest": "^24.8.0",
